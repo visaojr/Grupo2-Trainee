@@ -3,9 +3,13 @@
 }
 
 .footerFirst{
-    background: red
+    background: #ffffff
 }
 
 .footerSecond{
-    background: #10161a
+    background: #1c1d21
+}
+
+.footerPadding{
+    padding: 30px
 }
