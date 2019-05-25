@@ -16,19 +16,21 @@
 
 	///////////////////////////
 	// Smooth scroll
-	$("#nav .main-nav a[href^='#']").on('click', function(e) {
-		e.preventDefault();
+	$("#nav .main-nav a[href^='#'], #buttonStart a[href^='#']").on('click', function(e) {
+		e.preventDefault(); 
 		var hash = this.hash;
 		$('html, body').animate({
 			scrollTop: $(this.hash).offset().top
 		}, 600);
 	});
+	
 
 	$('#back-to-top').on('click', function(){
 		$('body,html').animate({
 			scrollTop: 0
 		}, 600);
 	});
+	
 
 	///////////////////////////
 	// Btn nav collapse
