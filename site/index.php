@@ -1034,38 +1034,11 @@
 						<div class="container col-md-offset-2">
 							<div class="col-md-4">
 
-								<!-- Sign up -->
-								<div class="section-signup bg1-pattern p-t-85 p-b-85 ">
-									<form class="flex-c-m flex-w flex-col-c-m-lg p-l-5 p-r-5">
-										<i class="fa fa-envelope ab-r-m m-r-18" aria-hidden="true"></i>
-										<span class="txt5 m-10">
-											Cadatre-se para receber conteúdo exclusivo
-										</span>
-
-										<div
-											class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
-											<input class="bo-rad-10 sizefull txt10 p-l-20 form-control" type="text"
-												name="name" placeholder="Nome">
-										</div>
-
-										<div
-											class="wrap-input-signup size17 bo2 bo-rad-10 bgwhite pos-relative txt10 m-10">
-											<input class="bo-rad-10 sizefull txt10 p-l-20 form-control" type="text"
-												name="email-address" placeholder="Endereço de E-mail">
-										</div>
-									</form>
-								</div>
 
 							</div>
 						</div>
 
-						<div class="col-md-8">
-								<!-- Button3 -->
-								<button type="submit" class="btn3 flex-c-m size18 txt11 trans-0-4 m-10 btn btn-primary">
-									Enviar
-								</button>
-							</div>
-						
+												
 
 						<div class="col-md-12">
 
