@@ -713,7 +713,7 @@
 								</div>
 								<div class="team-content">
 									<h3>Atilla Teixeira</h3>
-									<span>Web Designer</span>
+									<span>Projetos</span>
 								</div>
 							</div>
 						</div>
@@ -737,7 +737,7 @@
 								</div>
 								<div class="team-content">
 									<h3>Artur Oliveira</h3>
-									<span>Web Designer</span>
+									<span>Projetos</span>
 								</div>
 							</div>
 						</div>
@@ -761,7 +761,7 @@
 								</div>
 								<div class="team-content">
 									<h3>Isabella Candido</h3>
-									<span>Web Designer</span>
+									<span>Marketing</span>
 								</div>
 							</div>
 						</div>
@@ -785,7 +785,7 @@
 								</div>
 								<div class="team-content">
 									<h3>Larissa Dornelas</h3>
-									<span>Web Designer</span>
+									<span>Qualidade</span>
 								</div>
 							</div>
 						</div>
@@ -809,7 +809,7 @@
 								</div>
 								<div class="team-content">
 									<h3>Rafael Pinho</h3>
-									<span>Web Designer</span>
+									<span>Gestao de Pessoas</span>
 								</div>
 							</div>
 						</div>
