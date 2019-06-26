@@ -148,8 +148,7 @@
 					<div class="about">
 						<i class="fa fa-eye"></i>
 						<h3>Visão</h3>
-						<p>Ser reconhecida como agência referencial em marketing digital
-							em João Monlevade e região.</p>
+						<p>Ser reconhecida como agência referencia em marketing digital no Médio Piracicaba e região.</p>
 					</div>
 				</div>
 				<!-- /about -->
@@ -159,7 +158,7 @@
 					<div class="about">
 						<i class="fa fa-send-o"></i>
 						<h3>Valores</h3>
-						<p>Ética, foco no cliente, compromisso, responsabilidade social, sinergia.</p>
+						<p>Ética, foco no cliente, compromisso, responsabilidade social e trabalho em equipe.</p>
 					</div>
 				</div>
 				<!-- /about -->
@@ -180,30 +179,36 @@
 					<!-- why choose us content -->
 					<div class="col-md-6">
 						<div class="section-header">
-							<h2 class="title">Por que nos escolher?</h2>
+							<h2 class="title">Entre para o nosso time!</h2>
 						</div>
-						<p>A Innovate Marketing Digital é uma empresa que tem por princípio a qualidade de seus
-							serviços, com nossa missão de desenvolver e fortalecer nossos clientes por meio do marketing
-							digital, usando de criações de sites, divulgação em mídias sociais e gerenciamento de
-							conteúdo, podemos garantir a excelência de nosso leque de serviços a nossos clientes. Além
-							disso, contamos com:
+						<p>A Innovate Marketing Digital é uma empresa com foco nas necessidades dos seus clientes. Criamos ferramentas personalizadas que tem baseadas no que há de mais inovador no mercado, por meio de parcerias com as mais completas ferramentas de gestão digital. 
+							No nosso time você vai contar com:
+
 
 						</p>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Entrega dos produtos em prazo estabelecido;</p>
+							<p>Atendimento personalizado e especializado;</p>
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Atendimento às necessidades dos clientes;</p>
+							<p>Acesso à mais inovadora ferramenta de gestão de CRM Salesforce (Google);</p>
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Conteúdo de mais alta qualidade;</p>
+							<p>Monitoramento es sociais e marca com a plataforma Stilinge;</p>
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Equipe preparada para atender todos os tipos de situações.</p>
+							<p>Relatórios de performance;</p>
+						</div>
+						<div class="feature">
+							<i class="fa fa-check"></i>
+							<p>Criação de sites e hotsites (parceria Visão Jr.);</p>
+						</div>
+						<div class="feature">
+							<i class="fa fa-check"></i>
+							<p>Gerenciamento de mídias online (Google Display, SOS, etc);</p>
 						</div>
 					</div>
 					<!-- /why choose us content -->
