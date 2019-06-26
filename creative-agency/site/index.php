@@ -39,6 +39,27 @@
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
 		<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript">
+	jQuery(document).ready(function(){
+		jQuery('#ajax_form').submit(function(){
+			var dados = jQuery( this ).serialize();
+
+			jQuery.ajax({
+				type: "POST",
+				url: "action.php",
+				data: dados,
+				success: function( data )
+				{
+					$("#ajax_form").trigger('reset');
+					alert( "Obrigado pelo contato!!" );
+				}
+			});
+			
+			return false;
+		});
+	});
+	</script>
 </head>
 
 <body>
@@ -680,7 +701,7 @@
 
 						<!-- Section-header -->
 						<div class="section-header text-center">
-							<h2 class="white-text">Fique informado</h2>
+							<h2 class="white-text">Receba nossos conteúdos exclusivos!</h2>
 						</div>
 						<!-- /Section-header -->
 
@@ -716,11 +737,10 @@
 
 						<!-- contact form -->
 						<div class="col-md-8 col-md-offset-2">
-							<form class="contact-form">
-								<input type="text" class="input" placeholder="Nome">
-								<input type="email" class="input" placeholder="Email">
-								<button class="main-btn">Enviar</button>
-							</form>
+							<form action = "" id="ajax_form" method = "POST" class="contact-form">
+								<input type="text" name="name" class="input" placeholder="Nome">
+								<input type="email" name="email" class="input" placeholder="Email">
+								<input type="submit" name="enviar" class="main-btn"/>							</form>
 						</div>
 						<!-- /contact form -->
 
