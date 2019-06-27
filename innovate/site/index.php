@@ -216,7 +216,7 @@
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Monitoramento es sociais e marca com a plataforma Stilinge;</p>
+							<p>Monitoramento de redes sociais e marca com a plataforma Stilingue;</p>
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
@@ -224,7 +224,7 @@
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
-							<p>Criação de sites e hotsites (parceria Visão Jr.);</p>
+							<p>Criação de sites e hotsites;</p>
 						</div>
 						<div class="feature">
 							<i class="fa fa-check"></i>
@@ -710,7 +710,7 @@
 							<div class="contact">
 								<i class="fa fa-phone"></i>
 								<h3 class="white-text">Telefone</h3>
-								<p class="white-text">(31) 32258032</p>
+								<p class="white-text">(31) 3225-8032</p>
 							</div>
 						</div>
 						<!-- /contact -->
@@ -730,7 +730,7 @@
 							<div class="contact">
 								<i class="fa fa-map-marker"></i>
 								<h3 class="white-text">Endereço</h3>
-								<p class="white-text"> Rua 36, 115 - Loanda, João Monlevade - MG, 35931-008</p>
+								<p class="white-text"> Rua 36, 115 - Loanda, João Monlevade - MG, CEP: 35931-008</p>
 							</div>
 						</div>
 						<!-- /contact -->
